@@ -44,20 +44,23 @@ This project evaluates how adjusting thresholds impacts precision, recall, and t
 
 ## 🧠 Project Structure
 
+```text
 ├── data/
-│ └── creditcard.csv
+│   └── creditcard.csv
 │
 ├── notebooks/
-│ ├── 01_eda.ipynb
-│ ├── 02_modeling.ipynb
-│ ├── 03_threshold_analysis.ipynb
-│ └── 04_fraud_scoring_business_impact.ipynb
+│   ├── 01_eda.ipynb
+│   ├── 02_modeling.ipynb
+│   ├── 03_threshold_analysis.ipynb
+│   └── 04_fraud_scoring_business_impact.ipynb
 │
 ├── models/
-│ └── best_model.pkl
+│   └── best_model.pkl
+│
+├── Executive_Summary.md
 │
 └── README.md
-
+```
 ---
 
 ## 🔍 Notebook Breakdown
